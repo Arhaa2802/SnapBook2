@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(187, 255, 0);
+}
+.login_div{
+    color:black;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+    
+}
+
+#btn_login{
+    margin-top: 20px;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+#logout
+{
+	font-size: 20px; float: right;
+}
